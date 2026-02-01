@@ -1,7 +1,6 @@
 num = int(input("Enter a number: "))
 
 if num % 5 == 0:
-    print("Even number")
-
+    print("Divisible by 5")
 else:
-    print("Odd number")
+    print("Not Divisible by 5")
