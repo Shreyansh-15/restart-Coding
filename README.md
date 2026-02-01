@@ -1,4 +1,4 @@
-# Restart – Web Dev Journey
+# Restart – Coding Journey
 
 ## Progress Log
 
