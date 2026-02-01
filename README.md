@@ -14,6 +14,10 @@
   - Displayed current time dynamically
   - Practiced basic DOM manipulation and events
 - Day 6: JavaScript DOM & Live Clock ⏰
+- Day 7: Python Basics 🐍
+  - Practiced conditionals
+  - Worked with user input
+  - Solved divisibility problems
 
 ## What I worked on
 - Practiced JavaScript DOM manipulation
