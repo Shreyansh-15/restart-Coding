@@ -1,8 +1,8 @@
 🚀 Restart – Coding Journey
 📅 Progress Log
 
--This repository documents my daily coding journey in Web Development and Python.
--I am focusing on building strong fundamentals and practicing consistently.
+- This repository documents my daily coding journey in Web Development and Python.
+- I am focusing on building strong fundamentals and practicing consistently.
 
 🌐 Web Development
 
