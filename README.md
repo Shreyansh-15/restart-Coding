@@ -50,19 +50,20 @@
 
 💻 What I Worked On
 
-JavaScript DOM manipulation
+  JavaScript DOM manipulation
 
-Live digital clock using setInterval
+  Live digital clock using setInterval
 
-Start/Stop clock functionality
+  Start/Stop clock functionality
 
-Button enable/disable logic
+  Button enable/disable logic
 
-Dynamic greeting system
+  Dynamic greeting system
 
-Python logic building with loops and conditions
+  Python logic building with loops and conditions
 
 🧠 Concepts Used
+
 #JavaScript:-
 
 - document.getElementById()
