@@ -23,3 +23,8 @@ button {
 button:active {
     transform: scale(0.95);
 }
+
+.dark {
+    background-color: black;
+    color: white;
+}

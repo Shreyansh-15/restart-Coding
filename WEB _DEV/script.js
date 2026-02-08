@@ -7,6 +7,11 @@ const greetingPara = document.getElementById("greeting");
 const form = document.getElementById("myForm");
 const formMessage = document.getElementById("formMessage");
 const resetBtn = document.getElementById("resetBtn");
+const toggleBtn = document.getElementById("toggleMode");
+
+toggleBtn.addEventListener("click", () =>{
+    document.body.classList.toggle("dark");
+})
 
 resetBtn.addEventListener("click", () => {
     count = 0;

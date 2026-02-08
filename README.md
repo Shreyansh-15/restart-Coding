@@ -66,6 +66,13 @@
     - Multiple of 5 check
   - Improved understanding of reusable logic
 
+- Day 5 — Lists + Functions (Mission Day 1)
+  - Sum of elements in a list
+  - Finding maximum in a list
+  - Counting even numbers in a list
+  - Practiced iterating through lists
+  - Strengthened loop + condition logic
+
 💻 What I Worked On
 
 - JavaScript DOM manipulation
@@ -85,28 +92,22 @@
 #JavaScript:-
 
 - document.getElementById()
-
 - addEventListener()
-
 - setInterval() / clearInterval()
-
 - JavaScript Date object
-
 - textContent updates
-
 - Conditional UI logic
+- CSS class toggling (dark/light mode)
 
 #Python:-
 
 - input() handling
-
 - if/elif/else
-
 - for & while loops
-
 - range() function
-
 - Modulo operator %
+- Functions & return values
+- List iteration
 
 ✨ What I Learned
 
