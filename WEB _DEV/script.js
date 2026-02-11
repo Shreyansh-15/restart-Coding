@@ -87,3 +87,12 @@ button.addEventListener("click", () =>{
     timePara.textContent = `Current Time: ${currentTime}`;
     
 });
+
+let btn = document.getElementById("colorBtn");
+
+btn.addEventListener("click", function() {
+    document.body.style.backgroundColor =
+        document.body.style.backgroundColor === "lightblue"
+        ? "white"
+        : "lightblue";
+});

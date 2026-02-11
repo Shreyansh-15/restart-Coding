@@ -73,6 +73,14 @@
   - Practiced iterating through lists
   - Strengthened loop + condition logic
 
+- Day 6 — Python Logic Building (Mission Day 2)
+  - Reversed a number using while loop
+  - Checked palindrome numbers
+  - Calculated factorial using for loop
+  - Strengthened number manipulation logic
+  - Practiced step-by-step problem solving
+
+
 💻 What I Worked On
 
 - JavaScript DOM manipulation
